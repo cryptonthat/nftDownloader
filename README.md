@@ -20,8 +20,10 @@ set the **Blockchain** _variable_ to one of the supported blockchains.
 "ETHEREUM" "POLYGON" "FLOW" "TEZOS" "SOLANA" "IMMUTABLEX"
 ```
 
-Run `npm run start`
+## Runtime
+
+run `npm start`
 
 ```shell
-npm run start
+npm start
 ```
