@@ -9,7 +9,8 @@ Install all dependencies with `npm install`.
 ## Usage
 
 Locate index.js file
-	Set Contract Address variable to Collection Address
+
+Set **ContractAddress** variable to the 42 character contract address of the collection you want to download
 
 Run `npm run start`
 
