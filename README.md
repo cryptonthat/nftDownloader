@@ -10,7 +10,15 @@ Install all dependencies with `npm install`.
 
 Locate index.js file
 
-Set **ContractAddress** variable to the 42 character contract address of the collection you want to download
+Set the **ContractAddress** _variable_ to the 42 character contract address of the collection you want to download
+
+set the **Blockchain** _variable_ to one of the supported blockchains.
+
+## Supported Blockchains
+
+```shell
+"ETHEREUM" "POLYGON" "FLOW" "TEZOS" "SOLANA" "IMMUTABLEX"
+```
 
 Run `npm run start`
 
